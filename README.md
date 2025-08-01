@@ -8,7 +8,7 @@ Ideal for anyone starting to learn web development, with clear and easy-to-under
 
 ### 1. Basic HTML Example
 
-![Basic HTML Screenshot](screenshots/basic-html.png)
+![Basic HTML Screenshot](BasicHTML(Screenshot).png)
 
 *A simple web page demonstrating core HTML elements such as headings, paragraphs, lists, and links.*
 
@@ -16,7 +16,7 @@ Ideal for anyone starting to learn web development, with clear and easy-to-under
 
 ### 2. Cafe Project
 
-![Cafe Screenshot](screenshots/cafe-demo.png)
+![Cafe Screenshot](camper-cafe/camper-cafe(screenshot).png)
 
 *A sample landing page for a cafe, showcasing usage of layout, menus, and images.*
 
