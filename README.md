@@ -34,7 +34,7 @@ A simple registration form created using HTML to collect basic user information.
 
 ### 1. Registration Form UI
 
-![Registration Form](screenshots/registration-form.png)
+![Registration Form](Registration-form/registration-form(Screenshot).png)
 
 *A modern and uncluttered registration form with clearly labeled fields, well-organized layout, and helpful placeholders.*
 
