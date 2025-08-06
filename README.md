@@ -19,6 +19,30 @@ Ideal for anyone starting to learn web development, with clear and easy-to-under
 ![Cafe Screenshot](camper-cafe/camper-cafe(screenshot).png)
 
 *A sample landing page for a cafe, showcasing usage of layout, menus, and images.*
+## 📝 Registration Form
+
+A simple registration form created using HTML to collect basic user information. This project demonstrates form structure, the usage of required and optional fields, and a clean, user-friendly design.
+
+### Features
+- Text input fields for name, email, and password
+- Option for user type selection (radio buttons or dropdown)
+- HTML5 validation for required fields
+- Submit and reset buttons
+- A confirmation page with a success message after submission
+
+## 📸 Screenshots
+
+### 1. Registration Form UI
+
+![Registration Form](screenshots/registration-form.png)
+
+*A modern and uncluttered registration form with clearly labeled fields, well-organized layout, and helpful placeholders.*
+
+---
+
+
+## Folder Structure (Updated)
+
 
 ---
 ## Resources
