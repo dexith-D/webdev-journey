@@ -60,7 +60,7 @@ A simple survey form crafted in HTML to collect user feedback and preferences. T
 A straightforward and user-friendly survey form layout, featuring a mix of input types and clear instructions.
 
 ![Survey Form Screenshot](Survey-form/Survey-form(Screenshot).png)
-
+---
 
 
 ## Folder Structure (Updated)
