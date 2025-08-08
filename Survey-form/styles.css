@@ -1,0 +1,115 @@
+body, input, select, textarea, button {
+  font-family: 'Segoe UI', Verdana, Arial, sans-serif;
+}
+
+body {
+  background: #f6f8fa;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 480px;
+  margin: 40px auto;
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 4px 18px rgba(0,0,0,0.08);
+  padding: 32px 24px;
+}
+
+h1#title {
+  text-align: center;
+  font-size: 2rem;
+  margin-bottom: 12px;
+  color: #064663;
+  letter-spacing: 1px;
+}
+
+#description {
+  text-align: center;
+  color: #555;
+  margin-bottom: 28px;
+}
+
+form#survey-form label {
+  display: block;
+  margin-top: 18px;
+  margin-bottom: 8px;
+  color: #0a2647;
+  font-weight: 600;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="number"],
+select,
+textarea {
+  width: 100%;
+  padding: 10px 12px;
+  border: 1px solid #d3e0ea;
+  border-radius: 5px;
+  background: #f2f8fc;
+  box-sizing: border-box;
+  margin-bottom: 14px;
+  font-size: 1rem;
+  transition: border 0.2s;
+}
+
+input:focus,
+select:focus,
+textarea:focus {
+  border: 1.5px solid #064663;
+  outline: none;
+  background: #fff;
+}
+
+fieldset {
+  border: none;
+  padding: 0;
+  margin-bottom: 15px;
+}
+
+legend {
+  font-weight: 500;
+  color: #092635;
+  margin-bottom: 8px;
+}
+
+/* Radio and checkbox groups */
+input[type="radio"],
+input[type="checkbox"] {
+  margin-right: 8px;
+  accent-color: #064663;
+}
+
+label[for="comments"] {
+  margin-top: 18px;
+}
+button#submit {
+  display: block;
+  margin: 18px auto 0;
+  background: #064663;
+  color: #fff;
+  font-size: 1.08rem;
+  font-weight: 600;
+  padding: 12px 28px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  box-shadow: 0 1px 8px rgba(6, 70, 99, 0.15);
+  transition: background 0.2s, box-shadow 0.2s;
+}
+
+button#submit:hover {
+  background: #205375;
+  box-shadow: 0 2px 12px rgba(6, 70, 99, 0.18);
+}
+@media (max-width: 600px) {
+  .container {
+    padding: 18px 8px;
+  }
+  h1#title {
+    font-size: 1.4rem;
+  }
+}
+
