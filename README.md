@@ -61,11 +61,6 @@ A straightforward and user-friendly survey form layout, featuring a mix of input
 
 ![Survey Form Screenshot](Survey-form/Survey-form(Screenshot).png)
 ---
-
-
-## Folder Structure (Updated)
-
-
 ---
 ## Resources
 
