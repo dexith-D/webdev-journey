@@ -39,6 +39,28 @@ A simple registration form created using HTML to collect basic user information.
 *A modern and uncluttered registration form with clearly labeled fields, well-organized layout, and helpful placeholders.*
 
 ---
+## 📝 Survey Form
+
+A simple survey form crafted in HTML to collect user feedback and preferences. This project demonstrates form structure, including required and optional fields, multiple-choice questions, checkboxes, and a clean, accessible layout.
+
+### Features
+
+- Text input for Name and Email  
+- Dropdown for experience rating  
+- Checkboxes for preferred topics  
+- Textarea for additional comments  
+- HTML5 validation for required fields  
+- Submit and reset buttons  
+- Confirmation page after submission  
+
+## 📸 Screenshots
+
+### 2. Survey Form UI
+
+A straightforward and user-friendly survey form layout, featuring a mix of input types and clear instructions.
+
+![Survey Form Screenshot](Survey-form/Survey-form(Screenshot).png)
+
 
 
 ## Folder Structure (Updated)
